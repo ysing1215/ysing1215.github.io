@@ -1,8 +1,5 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+這次所使用的template是https://colorlib.com/wp/template/nissa/
+因為很喜歡他的設計跟版面，所以沒有做太大的更動
+在製作過程中花費最多時間的是調整圖片。因為作品照片很多、類別也很多，所以研究了版面的配置，並且在上傳前進行ps修圖。
+也拿掉了不需要的元素，例如社群網站的連結。
+也加入了小論文的作業放在blog的分頁中，增加豐富度。

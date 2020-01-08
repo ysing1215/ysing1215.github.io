@@ -11,15 +11,19 @@
     background-color: #93aeb9;
     color: #fff1d3;
     font-size: 20px;
+    padding: 5px;
 }
 
 .btn:hover {
     color: #e4bb56;
+    border: 0px;
 }
 
 .selected {
     background-color: #28496b;
     color: #fff1d3;
+    border: 0px;
+    padding: 5px;
 }
 
 .confirm {
@@ -29,6 +33,7 @@
     border-radius: 5px;
     font-size: 25px;
     border: 0px;
+    padding: 5px;
 }
 
 .confirm:hover {
@@ -43,6 +48,7 @@
     border-radius: 5px;
     font-size: 25px;
     border: 0px;
+    padding: 5px;
 }
 
 .back {
@@ -59,4 +65,53 @@
 .back:hover {
     color: #e4bb56;
     font-style: normal;
+}
+
+#a {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+#b {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+#c {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+#d {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+#e {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+#f {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+#g {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 22px;
+    border-radius: 5px;
 }
